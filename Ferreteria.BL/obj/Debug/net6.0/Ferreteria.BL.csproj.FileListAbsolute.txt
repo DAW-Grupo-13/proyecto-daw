@@ -1,0 +1,12 @@
+C:\Users\Douglas Gallardo UG\source\repos\FerreteriaSolution\Ferreteria.BL\bin\Debug\net6.0\Ferreteria.BL.deps.json
+C:\Users\Douglas Gallardo UG\source\repos\FerreteriaSolution\Ferreteria.BL\bin\Debug\net6.0\Ferreteria.BL.dll
+C:\Users\Douglas Gallardo UG\source\repos\FerreteriaSolution\Ferreteria.BL\bin\Debug\net6.0\Ferreteria.BL.pdb
+C:\Users\Douglas Gallardo UG\source\repos\FerreteriaSolution\Ferreteria.BL\obj\Debug\net6.0\Ferreteria.BL.csproj.AssemblyReference.cache
+C:\Users\Douglas Gallardo UG\source\repos\FerreteriaSolution\Ferreteria.BL\obj\Debug\net6.0\Ferreteria.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Douglas Gallardo UG\source\repos\FerreteriaSolution\Ferreteria.BL\obj\Debug\net6.0\Ferreteria.BL.AssemblyInfoInputs.cache
+C:\Users\Douglas Gallardo UG\source\repos\FerreteriaSolution\Ferreteria.BL\obj\Debug\net6.0\Ferreteria.BL.AssemblyInfo.cs
+C:\Users\Douglas Gallardo UG\source\repos\FerreteriaSolution\Ferreteria.BL\obj\Debug\net6.0\Ferreteria.BL.csproj.CoreCompileInputs.cache
+C:\Users\Douglas Gallardo UG\source\repos\FerreteriaSolution\Ferreteria.BL\obj\Debug\net6.0\Ferreteria.BL.dll
+C:\Users\Douglas Gallardo UG\source\repos\FerreteriaSolution\Ferreteria.BL\obj\Debug\net6.0\refint\Ferreteria.BL.dll
+C:\Users\Douglas Gallardo UG\source\repos\FerreteriaSolution\Ferreteria.BL\obj\Debug\net6.0\Ferreteria.BL.pdb
+C:\Users\Douglas Gallardo UG\source\repos\FerreteriaSolution\Ferreteria.BL\obj\Debug\net6.0\ref\Ferreteria.BL.dll

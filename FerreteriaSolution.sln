@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ferreteria.BL", "Ferreteria.BL\Ferreteria.BL.csproj", "{02DAAA01-8FD0-4D19-8B79-0A9E3C992B4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ferreteria.API", "Ferreteria.API\Ferreteria.API.csproj", "{73B399B1-5338-45C4-BBEC-5B4E5EF37DDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02DAAA01-8FD0-4D19-8B79-0A9E3C992B4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02DAAA01-8FD0-4D19-8B79-0A9E3C992B4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02DAAA01-8FD0-4D19-8B79-0A9E3C992B4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02DAAA01-8FD0-4D19-8B79-0A9E3C992B4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73B399B1-5338-45C4-BBEC-5B4E5EF37DDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73B399B1-5338-45C4-BBEC-5B4E5EF37DDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73B399B1-5338-45C4-BBEC-5B4E5EF37DDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73B399B1-5338-45C4-BBEC-5B4E5EF37DDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09A2BDC5-0ECF-4A5D-96E8-3ECBDC8C0C1C}
+	EndGlobalSection
+EndGlobal
