@@ -1,8 +1,10 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Ferreteria.API.SharedCode;
+using Ferreteria.API.Utils;
 using Ferreteria.BL;
 using System.Data;
 using System.Xml.Linq;
+using Microsoft.AspNetCore.Authorization;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -10,6 +12,7 @@ namespace Ferreteria.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class ClientesController : Controller
     {
 
@@ -23,7 +26,7 @@ namespace Ferreteria.API.Controllers
             DataSet sResultado = await DBXmlMethods.EjecutaBase("GetClientes", cadenaConexion, "CONSULTA_CLIENTES_EDAD", xmlParam.ToString());
             List<Clientes> listData = new List<Clientes>();
 
-            DBXmlMethods.generateResponse(sResultado, listData);
+            ClienteUtil.generateResponse(sResultado, listData);
 
             return Ok(listData);
         }
@@ -37,7 +40,7 @@ namespace Ferreteria.API.Controllers
             DataSet sResultado = await DBXmlMethods.EjecutaBase("GetClientes", cadenaConexion, "CONSULTA_CLIENTES_APELLIDO", xmlParam.ToString());
             List<Clientes> listData = new List<Clientes>();
 
-            DBXmlMethods.generateResponse(sResultado, listData);
+            ClienteUtil.generateResponse(sResultado, listData);
 
             return Ok(listData);
         }
@@ -51,7 +54,7 @@ namespace Ferreteria.API.Controllers
             DataSet sResultado = await DBXmlMethods.EjecutaBase("GetClientes", cadenaConexion, "CONSULTA_CLIENTES_CIUDAD", xmlParam.ToString());
             List<Clientes> listData = new List<Clientes>();
 
-            DBXmlMethods.generateResponse(sResultado, listData);
+            ClienteUtil.generateResponse(sResultado, listData);
 
             return Ok(listData);
         }

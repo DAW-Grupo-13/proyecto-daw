@@ -66,3 +66,9 @@ C:\Users\Douglas Gallardo UG\source\repos\FerreteriaSolution\Ferreteria.API\obj\
 C:\Users\Douglas Gallardo UG\source\repos\FerreteriaSolution\Ferreteria.API\obj\Release\net6.0\Ferreteria.API.pdb
 C:\Users\Douglas Gallardo UG\source\repos\FerreteriaSolution\Ferreteria.API\obj\Release\net6.0\Ferreteria.API.genruntimeconfig.cache
 C:\Users\Douglas Gallardo UG\source\repos\FerreteriaSolution\Ferreteria.API\obj\Release\net6.0\ref\Ferreteria.API.dll
+C:\Users\Douglas Gallardo UG\source\repos\FerreteriaSolution\Ferreteria.API\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Douglas Gallardo UG\source\repos\FerreteriaSolution\Ferreteria.API\bin\Release\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Douglas Gallardo UG\source\repos\FerreteriaSolution\Ferreteria.API\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\Douglas Gallardo UG\source\repos\FerreteriaSolution\Ferreteria.API\bin\Release\net6.0\Scrutor.dll
+C:\Users\Douglas Gallardo UG\source\repos\FerreteriaSolution\Ferreteria.API\bin\Release\net6.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\Douglas Gallardo UG\source\repos\FerreteriaSolution\Ferreteria.API\bin\Release\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
